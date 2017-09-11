@@ -3,7 +3,6 @@ package ccc;
 import java.io.IOException;
 import java.text.MessageFormat;
 import java.util.Enumeration;
-import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
 
@@ -12,8 +11,6 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
-import com.sun.corba.se.impl.protocol.giopmsgheaders.Message;
 
 /**
  * Servlet implementation class serverdemo14
